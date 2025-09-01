@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=E8AFF7&center=true&repeat=false&width=435&lines=Lukewarm+welcome+from+Val+%E2%99%A1%E2%99%A1%E2%99%A1)](https://git.io/typing-svg)
 
-[![Sailor Moon GIF](https://i.pinimg.com/originals/b9/34/df/b934df3961e1db619bf0c7f20eb8cc6b.gif)]
+![Sailor Moon GIF](https://i.pinimg.com/originals/b9/34/df/b934df3961e1db619bf0c7f20eb8cc6b.gif)
 
 - 🔭 Currently working on: Unity + WebGL Rocket AR Website for ARES (lead dev). Repo is private atm !!
 - My best: 
-|- ACP-Web Rocket control center and Flight Analysis for real launch data for ARES.
+|- ACP-Web Rocket Control Center and Flight Analysis for real launch data for ARES.
  - PulseLink: IoT + TensorFlow (Convolutional-Neural-Network model) webapp for distant lung disease diagnosis.
- - 
+
 ## Stack
 <div align="center">
 	<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
