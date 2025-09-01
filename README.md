@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=E8AFF7&center=true&repeat=false&width=435&lines=Lukewarm+welcome+from+Val+%E2%99%A1%E2%99%A1%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=E8AFF7&center=true&repeat=false&width=435&lines=%E2%99%A1%E2%99%A1%E2%99%A1Lukewarm+welcome+from+Val+%E2%99%A1%E2%99%A1%E2%99%A1)](https://git.io/typing-svg)
 
 ![Sailor Moon GIF](https://i.pinimg.com/originals/b9/34/df/b934df3961e1db619bf0c7f20eb8cc6b.gif)
 
