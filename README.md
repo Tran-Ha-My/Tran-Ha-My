@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F7C1EF&width=435&lines=%E2%99%A1%E2%99%A1%E2%99%A1+Lukewarm+Welcome;from+Val+%E2%99%A1%E2%99%A1%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=100&color=F7C1EF&center=true&width=435&lines=%E2%99%A1%E2%99%A1%E2%99%A1+Lukewarm+Welcome+from+Val+%E2%99%A1%E2%99%A1%E2%99%A1)](https://git.io/typing-svg)
+
+
 ![Sailor Moon GIF](https://i.pinimg.com/originals/b9/34/df/b934df3961e1db619bf0c7f20eb8cc6b.gif)
 
 - 🔭 Currently working on: Unity + WebGL Rocket AR Website for ARES (lead dev). Repo is private atm !!
