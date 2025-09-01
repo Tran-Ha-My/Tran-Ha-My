@@ -3,9 +3,9 @@
 ![Sailor Moon GIF](https://i.pinimg.com/originals/b9/34/df/b934df3961e1db619bf0c7f20eb8cc6b.gif)
 
 - 🔭 Currently working on: Unity + WebGL Rocket AR Website for ARES (lead dev). Repo is private atm !!
-- My best: 
-|- ACP-Web Rocket Control Center and Flight Analysis for real launch data for ARES.
- - PulseLink: IoT + TensorFlow (Convolutional-Neural-Network model) webapp for distant lung disease diagnosis.
+- My best:
+  - ACP-Web Rocket Control Center and Flight Analysis for real launch data for ARES.
+  -  PulseLink: IoT + TensorFlow (Convolutional-Neural-Network model) webapp for distant lung disease diagnosis.
 
 ## Stack
 <div align="center">
