@@ -8,7 +8,7 @@
   -  PulseLink: IoT + TensorFlow (Convolutional-Neural-Network model) webapp for distant lung disease diagnosis. [PulseLink](https://github.com/Tran-Ha-My/PulseLink2025)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,unity,mongodb,tensorflow,opencv,postman,tailwind,figma,nodejs,express,fastapi,docker,js,py,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,unity,touchdesigner,tensorflow,opencv,postman,tailwind,figma,nodejs,express,fastapi,mongodb,docker,js,py,c,git)](https://skillicons.dev)
 <!--
 **Tran-Ha-My/Tran-Ha-My** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
